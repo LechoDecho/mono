@@ -45,7 +45,7 @@
         "max-len": [
           "error",
           {
-            "code": 100,
+            "code": 50,
             "ignoreUrls": true,
             "ignoreComments": true,
             "ignoreStrings": true,
@@ -221,7 +221,7 @@
         "rest-spread-spacing": ["error", "never"],
         "symbol-description": ["error"],
         "template-curly-spacing": ["error", "never"],
-        "yield-star-spacing": ["error", "both"]
+        "yield-star-spacing": ["error", "both"],
       }
     },
     {
